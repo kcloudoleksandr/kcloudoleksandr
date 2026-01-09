@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Oleksandr and now I try to learn Cloud Engenering.
+### My name is Oleksandr and now I try to learn Cloud Engeneering.
 
 `I like to create SQL queries and a bit of Python codes for automation`
 
